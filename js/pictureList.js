@@ -1,56 +1,133 @@
 const PICTURE_SRC_LIST = [
   {
     path: './image/photo1.jpeg',
-    title: '절친과 함꼐',
-    subTitle:
-      '친구 만나러 서울까지 올라갔다가 가장 친한 친구와 한강에서 술 마시고 찍은 사진 ㅋㅋ',
+    title: '절친과 함께',
+    subTitle: '절친 만나러 서울까지 올라가서 찍은 사진!',
   },
   {
     path: './image/photo2.jpeg',
     title: 'Jeju University',
-    subTitle: '분과에서 퇴근 길에 달이 너무 예뻐보였어...',
+    subTitle: '분과에서 집 가는 길~.',
   },
   {
     path: './image/photo3.jpeg',
     title: 'Landscape',
-    subTitle: 'Ex sint consectetur velit deserunt.',
+    subTitle: '구름이 달을 감싸고 있다니!',
   },
   {
     path: './image/photo4.jpeg',
     title: 'Landscape',
-    subTitle: 'Eiusmod sint consectetur reprehenderit id.',
+    subTitle: '도서관 가는 길의 해지기 전 저녁 풍경',
   },
   {
     path: './image/photo5.jpeg',
-    title: '절친과 함꼐',
-    subTitle:
-      'He is one of the my best friend. He took my cellphone and took his photo himself. It is so funny!',
+    title: '절친과 함께',
+    subTitle: '절친과 함께 농구하던 날',
   },
   {
     path: './image/photo6.jpeg',
     title: 'Landscape',
-    subTitle: '수능 준바할 떄 다니던 독서실 옥상에서 자주 보이는 저녁 노을',
+    subTitle: '독서실 옥상의 저녁 노을 풍경',
   },
   {
     path: './image/photo7.jpeg',
     title: 'Landscape',
-    subTitle:
-      '언제인지 기억은 나지 않지만 구름이 너무 멋져 보여서 찍은 사진. (필터링으로 약간 어둡게 처리 한거는 비밀 ㅋ)',
-  },
-  {
-    path: './image/photo8.jpeg',
-    title: 'Landscape',
     subTitle: '언제인지 기억은 나지 않지만 구름이 너무 멋져 보여서 찍은 사진.',
   },
   {
-    path: './image/photo9.jpeg',
+    path: './image/photo8.jpeg',
     title: '첫 만남이지만....',
     subTitle: '나 빼고 3명끼리 서로 처음 보는데 술까지 ㅋㅋ',
   },
   {
-    path: './image/photo10.jpeg',
+    path: './image/photo9.jpeg',
     title: 'Hackerthon Team',
     subTitle: '해커톤 팀원들과 마지막 회의에서 사진 한장!',
+  },
+  {
+    path: './image/photo10.jpeg',
+    title: '몽골 디저트~',
+    subTitle: '몽골 아이스크림은 맛이 다르다!',
+  },
+  {
+    path: './image/photo11.jpeg',
+    title: '몽골 음식!',
+    subTitle: '몽골 고기는 조금 기름져..',
+  },
+  {
+    path: './image/photo12.jpeg',
+    title: '몽골 디저트~',
+    subTitle: '처음 맛보는 맛...',
+  },
+  {
+    path: './image/photo13.jpeg',
+    title: '몽골 음식!',
+    subTitle: '몽골인들이 잘 안 먹는 음식이라고?!',
+  },
+  {
+    path: './image/photo14.jpeg',
+    title: '몽골 디저트~',
+    subTitle: '대통령이 준 초콜릿과 유유 과자(?)',
+  },
+  {
+    path: './image/photo15.jpeg',
+    title: 'HTML 수업',
+    subTitle: '인생 첫 수업!',
+  },
+  {
+    path: './image/photo16.jpeg',
+    title: 'HTML 팀원들과!',
+    subTitle: 'HTML 팀원들과 첫 수업 단체 사진!',
+  },
+  {
+    path: './image/photo17.jpeg',
+    title: '몽골 길거리 여행',
+    subTitle: '',
+  },
+  {
+    path: './image/photo18.jpeg',
+    title: '몽골 길거리 여행',
+    subTitle: '',
+  },
+  {
+    path: './image/photo19.jpeg',
+    title: '웃긴 사진 ㅋㅋ',
+    subTitle: '여장한 종현이.. ㅋㅋㅋㅋㅋ',
+  },
+  {
+    path: './image/photo20.jpeg',
+    title: 'HTML 팀원들과!',
+    subTitle: '다 같이 몽골 전통의상 입고 기념 사진!',
+  },
+  {
+    path: './image/photo21.jpeg',
+    title: '내 사진??',
+    subTitle: '',
+  },
+  {
+    path: './image/photo22.jpeg',
+    title: '내 사진??',
+    subTitle: '',
+  },
+  {
+    path: './image/photo23.jpeg',
+    title: '내 사진??',
+    subTitle: '',
+  },
+  {
+    path: './image/photo24.jpeg',
+    title: '몽골 길거리 여행',
+    subTitle: '',
+  },
+  {
+    path: './image/photo25.jpeg',
+    title: 'HTML 팀원들과!',
+    subTitle: 'HTML 팀원들과 마지막 수업 단체 사진!',
+  },
+  {
+    path: './image/photo26.jpeg',
+    title: '웃긴 사진 ㅋㅋ',
+    subTitle: '',
   },
 ]
 
